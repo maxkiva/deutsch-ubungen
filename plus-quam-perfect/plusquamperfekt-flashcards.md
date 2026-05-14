@@ -170,7 +170,7 @@ It describes an action that was **already completed before another past event** 
 | brennen | ge**brann**t | burned |
 
 **Examples in Plusquamperfekt:**
-> Ich **hatte** ihm nie **gedacht**, dass er lügen würde.
+> Ich **hatte** nie **gedacht**, dass er lügen würde.
 > *I had never thought that he would lie.*
 
 > Sie **hatte** ihn schon lange **gekannt**, bevor sie heirateten.
@@ -222,8 +222,7 @@ It describes an action that was **already completed before another past event** 
 | vorstellen | vor**ge**stellt | introduced/imagined |
 
 **Examples in Plusquamperfekt:**
-> Ich **hatte** um 6 Uhr **aufgestanden** — ich meine, war aufgestanden.
-> → Ich **war** um 6 Uhr **aufgestanden**.
+> Ich **war** um 6 Uhr **aufgestanden**.
 > *I had gotten up at 6 o'clock.*
 
 > Sie **hatte** schon **eingekauft**, bevor der Regen begann.
